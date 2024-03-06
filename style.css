@@ -1,0 +1,134 @@
+.my-class {
+    background-color: #212529;
+    height: 55px;
+   
+
+}
+.my-menu li a {
+    color: white;
+}
+.first {
+    color: white;
+}
+.my-search input{
+    background-color: #212529;
+    
+}
+.my-bar {
+    padding: 0;
+    
+}
+.carousel-item img {
+    height: 550px;
+
+}
+.text1 {
+    text-align: left;
+    padding-bottom: 100px;
+
+}
+.text1 h5 {
+    color: white;
+    font-size: 50px
+}
+.text1 p {
+    color: white;
+    font-size: 30px
+}
+.text2 {
+    text-align: center;
+    color: white;
+    padding-bottom: 100px;
+    
+}
+.text2 h5 {
+    font-size: 50px
+}
+.text2 p {
+    font-size: 30px
+}
+.text3 {
+    text-align: right;
+    color: white;
+    padding-bottom: 100px;
+}
+.text3 h5 {
+    font-size: 50px
+}
+.text3 p {
+    font-size: 30px;
+}
+.card1img {
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    align-self: center;
+    
+}
+.body {
+    text-align: center;
+    
+    
+}
+.section2 {
+    height: 400px;
+    border-bottom: 1px solid grey;
+    margin-left: 35px;
+    margin-right: 35px;
+    
+}
+.row {
+    border: 0;
+}
+.card1 {
+    border-width: 0;
+    margin-top: 40px;
+    
+}
+.button2 {
+    background: grey;
+    border: grey;
+}
+.section3 {
+    height: 500px;
+   border-bottom: 1px solid grey;
+    margin-left: 35px;
+    margin-right: 35px;
+   
+}
+.sec3img {
+    width: 500px;
+    height: 400px;
+    
+    
+}
+.card3 {
+    border-width: 0;
+    margin-top: 100px;
+    
+}
+.grey {
+    color: grey;
+}
+.card-body {
+    font-size: large;
+    flex-wrap: wrap;
+}
+.part2 .card mb-3 card3 .col-md-8 {
+    display: flex;
+    flex-direction: row-reverse;
+ 
+}
+footer {
+    display: flex;
+    height: 100px;
+    align-items: center;
+    margin-left: 35px;
+    gap: 10px;
+
+    
+    
+}
+.top {
+  padding-left: 950px;
+}
